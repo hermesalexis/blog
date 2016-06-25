@@ -1,0 +1,37 @@
+
+
+<!--Main Content-->
+<div class="container">
+ <div class="row">
+   <div class="col-sm-8 col-sm-offset-2">
+     <div class="post-preview">
+       <ul>
+       <% page.posts.each(function(post){ %>
+           <li>
+               <h3>
+                   <a href="<%- url_for(post.path) %>" class="link-post">
+                       <%= post.title %>
+                   </a>
+               </h3>
+               <div class='text-muted'>
+                   <%= date(post.date, config.date_format) %> 
+               </div>
+
+               <% if(post.excerpt) { %>
+                   <p>
+                       <%- post.excerpt %>
+                   </p>
+               <% } %>
+               <h6>By <%= config.author %></h6>
+           </li>
+       <% }) %>
+       </ul>    
+     </div>
+         
+   </div>
+     
+ </div>
+</div> 
+
+
+   

@@ -1,0 +1,62 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Asap', sans-serif;
+  font-size: 18px;
+}
+
+
+#barra-menu{
+ border-radius: 0;
+ margin-bottom: 0;
+}
+
+#hero{
+ background-image: url('images/hero.jpg');
+ background-position: center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ min-height: 400px;
+ border-radius: 0;
+ margin-top: 0;
+ margin-bottom: 10px;
+ color: white;	
+
+}
+
+
+.post-preview ul{
+	list-style: none;
+}
+
+.link-post{
+	color: color: #808080;;
+	font-size: 30px;
+}
+
+.link-post:hover{
+	text-decoration: none;
+	color: black;
+
+}
+
+.resumen-post{
+	color: red;
+}
+
+#social a{
+	font-size: 30px;
+}
+
+#social.container{
+   margin-top: 20px;
+}
+
+.post h1{
+	text-align: center;
+}
+
+div #cuerpo-post{
+	text-align: justify;
+	line-height: 1.8;
+}

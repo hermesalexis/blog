@@ -1,0 +1,12 @@
+---
+title: Descubre Tú patron de dinero
+date: 2016-06-25 11:23:32
+tags:
+---
+Desde hace aproximadamente dos meses tengo la inquietud a cerca de como los hombre más millonarios de la historia han conseguido “Una mente millonaria” y no me refiero exactamente a la cantidad de dinero que tienen en sus cuentas bancarias, sino a como desde su interior fueron conformando tanto su capital intelectual como la capacidad de vencer sus miedos y enfrentrar el mundo al pie del cañon.
+Según T Harv Eker vivimos en un mundo de polos opuestos, sólo vasta con observar nuestra realidad y descubrir como existe el bien y el mal, el día y la noche, la derecha y la izquierda, en fin, es imposible concebir la vida sin objetos opuestos.
+Entonces, si existen leyes externas que rijan la naturaleza del dinero, tambien deben de existir leyes internas que controlen su flujo hacia nosotros. Las primeras las podemos encontrar en las finanzas, cursos contables, estrategias de inversión, administración y otras más áreas que contienen el conocimiento teórico para gestionar el dinero. Sin embargo el juego interior es todavía más importante. Un ejemplo claro es el de un gerente que conocer toda la teoría de la administración y que inclusive sustenta sus diplomas de maetría y doctorado en su oficina, éste conocimiento es impresindible, sin embargo es más importante el cómo utiliza toda esa teoría para dirigir su organización.
+No vasta con estar en el lugar adecuado, tienes que ser la persona  adecuada en el lugar adecuado en el momento justo, es decir, tienen que dirigir tus acciones, manejar tu tiempo y orientar todos tus recursos hacia la consecución de tu meta (Construir tu patrón de dinero).
+T Harv Eker propone las siguiente preguntas con el fin de que te alinees hacia una mejor vesion de tí: ¿Quien eres tú? ¿Cómo piensas? ¿Cuáles son tus creencias? ¿Cuáles son tus hábitos y tus rasgos de carácter? ¿Cómo te sientes realmente con respecto a tí mismo? ¿Que grado de confianza tienes en ti mismo? ¿Cómo te relacionas con los demás? ¿Sientes verdaderamente que mereces la riqueza?¿Eres capaz de actuar cuando no estas de humor?
+Como conclusión se puede decir que es tu carácter, tu forma de pensar frente al dinero y tus creencias internas constituyen una parte fundamental en tu nivel de prosperidad.
+¡Tus ingresos pueden crecer únicamente hasta donde crezcas tú!

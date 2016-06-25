@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Use <%= page.title %> for dynamic title -->
+    <title><%= config.title %></title>
+   
+
+    <!-- Twitter bootstrap (via cdn) -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <%- css("css/styles.css") %>
+    <link href='https://fonts.googleapis.com/css?family=Asap:400,700' rel='stylesheet' type='text/css'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="https://use.fontawesome.com/065bcb4ffa.js"></script>
+
+</head>
+<body>
+    <!--Barra de Navegación-->
+    <div class="navbar navbar-inverse" id="barra-menu">
+     <div class="container-fluid">
+       <div class="navbar-header">
+         <button type="button"class="navbar-toggle" data-toggle="collapse" data-target="#myNamebar">
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+         </button>
+         <a href='/' class="navbar-brand">HERMES-LECTURES</a>
+       </div>
+       <div class="collapse navbar-collapse" id="myNamebar">
+         <ul class="nav navbar-nav navbar-right">
+           <li class="active"><a href='/'>HOME</a></li>
+         </ul>
+       </div>
+     </div>
+    </div>
+
+    <div class="container-fluid">
+      <div class="row">
+          <div class="col-sm-12 jumbotron" id="hero">
+              <div class="text-center">
+                  <h1>Leer para Salir de la Tierra</h1>
+                  <p>Si Tú Tuvieras la oportunidad de teletransportate lejos de la tierra, hacia
+                  un sitio remoto, seguramente Tú imaginación sería Tú principal Motor</p>
+                  <h3>By <%= config.author %></h3>
+              </div>
+          </div>
+      </div>
+         
+    </div>
+
+
+        <%- body %>
+    <!--footer-->
+
+    <footer>
+      <div class="container" id="social">
+          <div class="row">
+              <div class="col-sm-8 col-sm-offset-2">
+                  <ul class="list-inline text-center">
+                    <a href="#" target="_blank">
+                     <i class="fa fa-facebook-official" aria-hidden="true"></i> 
+                    </a>
+
+                    <a href="https://twitter.com/AgmHermes?lang=es" target="_blank">
+                     <i class="fa fa-twitter" aria-hidden="true"></i> 
+                    </a>
+
+                    <a href="https://github.com/hermesalexis" target="_blank">
+                      <i class="fa fa-github" aria-hidden="true"></i> 
+                    </a>
+                   <p class="copyright text-muted">Copyright &copy; HAGM 2016</p>  
+                  </ul>       
+              </div>
+          </div>
+      </div>
+    </footer>
+</body>
+</html>
